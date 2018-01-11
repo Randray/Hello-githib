@@ -11,6 +11,7 @@ namespace Hello
         static void Main(string[] args)
         {
           Console.WriteLine("Hell GITTY!");
+            Console.WriteLine("Hello For nother time");
         }
     }
 }
