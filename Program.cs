@@ -10,8 +10,12 @@ namespace Hello
     {
         static void Main(string[] args)
         {
-          Console.WriteLine("Hell GITTY!");
-            Console.WriteLine("Hello For nother time");
+            for (int i = 0; i < 10; i++ )
+            {
+                Console.WriteLine("Hell GITTY!");
+                Console.WriteLine("Hello For nother time");
+            }
+          
         }
     }
 }
